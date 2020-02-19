@@ -1,8 +1,17 @@
 {
-    "receive": "<string>",
-    "sender": "<string>",
-    "timestamp": "<timestamp>",
-    "remaining": "<string>",
-    "transactionID": "<integer>",
-    "message": "<string>"
+    "args": {
+        "receive": "<string>",
+        "sender": "<string>",
+        "timestamp": "<timestamp>",
+        "remaining": "<string>",
+        "transactionID": "<integer>",
+        "message": "<string>"
+    },
+    "headers": {
+        "host": "postman-echo.com",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate",
+        "cache-control": "no-cache"
+    },
+    "url": "https://postman-echo.com/recipes"
 }
