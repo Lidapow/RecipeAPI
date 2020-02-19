@@ -1,0 +1,8 @@
+{
+    "receive": "<string>",
+    "sender": "<string>",
+    "timestamp": "<timestamp>",
+    "remaining": "<string>",
+    "transactionID": "<integer>",
+    "message": "<string>"
+}
